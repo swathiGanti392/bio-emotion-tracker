@@ -1,0 +1,27 @@
+{
+  "name": "bio-emotion-tracker",
+  "version": "1.0.0",
+  "description": "A comprehensive health monitoring system that uses brain wave sensors and body parameter tracking to analyze emotional patterns and provide personalized recommendations for optimal health and happiness",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet - this is a concept project\" && exit 0"
+  },
+  "keywords": [
+    "health",
+    "wellness",
+    "eeg",
+    "emotion",
+    "tracking",
+    "wearables",
+    "biosensors",
+    "mental-health",
+    "personalized-health",
+    "brain-waves"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swathiGanti392/bio-emotion-tracker"
+  }
+}
