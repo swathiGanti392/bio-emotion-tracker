@@ -1,0 +1,35 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+build/
+
+# Data (never commit user health data)
+data/
+*.csv
+*.json
+*.pkl
+*.h5
+
+# Logs
+logs/
+*.log
+
+# Credentials
+credentials.json
+.env
+*.key
+*.pem
+
+# Temporary files
+*.tmp
+*.swp
